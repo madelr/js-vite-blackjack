@@ -4,3 +4,4 @@
 2. Ejecutar
 3. Correr el devServer
 4. Abrir el proyecto
+5. Saludos
